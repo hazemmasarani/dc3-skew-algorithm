@@ -109,13 +109,6 @@ void radix_sort(std::vector<Triplet> &triplets, int exp) {
     }
 }
 
-std::vector<int> build_r_1_2(std::vector<int> &reduced_sa, vector<int> &indices, int n){
-
-    std::vector<int> r_1_2(n);
-
-    return {};
-}
-
 std::vector<int> merge_group(std::vector<int> &l_0, std::vector<int> &l_1_2, std::vector<int> &r_1_2, std::vector<int> &text) {
 
     int i0 = 0, i1 = 1;
