@@ -1,0 +1,1 @@
+# This directory contains the log of benchmark runs.
